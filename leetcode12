@@ -3,7 +3,7 @@ public:
    
     int romanToInt(string s) 
     {   
-        int m[10001];
+        int m[101];
         m['I'] = 1;
         m['V'] = 5;
         m['X'] = 10;
